@@ -11,8 +11,7 @@ ABSORPTION:
   Oral Bioavailability: ~84%
   Tmax: 0.5-3 hours
   Food Effect: No significant effect
-  Caco-2 Permeability: High (log Papp = -4.8)
-
+  Caco-2 Permeability: High permeability confirmed (log Papp = -4.8)
 DISTRIBUTION:
   Protein Binding: 97-98%
   Volume of Distribution: 110 L
@@ -193,4 +192,5 @@ CLINICAL TRIAL REFERENCES:
 - PROfound (Olaparib): NEJM 2020; 382:2091-2102
 
 Last Updated: 2024-01-15
+
 Data Quality: Clinical-grade, peer-reviewed sources
